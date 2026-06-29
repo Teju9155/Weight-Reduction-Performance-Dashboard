@@ -41,8 +41,4 @@ An interactive Power BI dashboard developed to monitor weight reduction progress
 - Business Intelligence
 - Interactive Visualization
 
----
 
-## Dashboard Preview
-
-![Dashboard](dashboard.png)
